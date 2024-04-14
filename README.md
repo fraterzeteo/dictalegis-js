@@ -1,4 +1,4 @@
-# dicta-legis
+# dictalegis
 Javascript library for generating Liber AL vel Legis (The Book of the Law) quotations
 
 ## Demo
@@ -31,3 +31,9 @@ If you want to customize the quote list used, you can pre-define it before loadi
     dictalegis.quoteList.push("quote value");
 </script>
 ```
+
+## Contributing
+This repo contains node.js resources for development, specifically `http-server` which can be used via the `npm start` command.
+
+This will make http://127.0.0.1:8080/ available for testing changes.
+
