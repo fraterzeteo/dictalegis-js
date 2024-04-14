@@ -7,7 +7,7 @@ Include the script on your site, then create any kind of HTML element, giving it
 ```html
 <p class="legis-quote"></p>
 
-<script type="text/javascript" src="src/dictalegis.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/fraterzeteo/dictalegis-js/src/dictalegis.js"></script>
 ```
 
 If you want to customize the quote list used, you can pre-define it before loading the `dictalegis.js` script, or add to it after loading.
