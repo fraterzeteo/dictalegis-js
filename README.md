@@ -1,6 +1,9 @@
 # dicta-legis
 Javascript library for generating Liber AL vel Legis (The Book of the Law) quotations
 
+## Demo
+https://fraterzeteo.github.io/dictalegis/
+
 ## How To Use
 Include the script on your site, then create any kind of HTML element, giving it the class of "legis-quote"
 
